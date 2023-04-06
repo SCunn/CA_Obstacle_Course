@@ -791,3 +791,257 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.06-14.41.03:934][ 25]LogViewport: Scene viewport resized to 1482x606, mode Windowed.
 [2023.04.06-14.41.04:357][ 27]LogViewport: Scene viewport resized to 1555x606, mode Windowed.
 [2023.04.06-14.41.05:239][114]LogViewport: Scene viewport resized to 1556x606, mode Windowed.
+[2023.04.06-14.44.25:889][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.06-14.44.25:909][ 70]Cmd: MAP LOAD FILE="../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/levels/Alpha_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.06-14.44.25:909][ 70]LightingResults: New page: Lighting Build
+[2023.04.06-14.44.25:909][ 70]LoadErrors: New page: Loading map: Alpha_Level.umap
+[2023.04.06-14.44.25:961][ 70]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-14.44.26:015][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-14.44.26:089][ 70]MapCheck: New page: Map Check
+[2023.04.06-14.44.26:089][ 70]LightingResults: New page: Lighting Build
+[2023.04.06-14.44.26:108][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.06-14.44.26:110][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.06-14.44.34:657][ 70]LogAudio: Display: Audio Device (ID: 1) registered with world 'Alpha_Level'.
+[2023.04.06-14.44.34:657][ 70]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.06-14.44.34:705][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-14.44.34:706][ 70]LogAIModule: Creating AISystem for world Alpha_Level
+[2023.04.06-14.44.36:262][ 70]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1023.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.06-14.44.36:262][ 70]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1025.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.06-14.44.36:262][ 70]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1026.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.06-14.44.36:262][ 70]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1027.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.06-14.44.36:263][ 70]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1028.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.06-14.44.36:263][ 70]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1029.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.06-14.44.36:263][ 70]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1030.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.06-14.44.36:263][ 70]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1031.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.06-14.44.36:456][ 70]LogScript: Warning: Accessed None trying to read property BP Third Person Character
+	ABP_Manny_C /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.enemy_C_5.CharacterMesh0.ABP_Manny_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0076
+[2023.04.06-14.44.36:575][ 70]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.06-14.44.36:643][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.04.06-14.44.36:690][ 70]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.06-14.44.36:690][ 70]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.394ms to complete.
+[2023.04.06-14.44.36:690][ 70]LogFileHelpers: Loading map 'Alpha_Level' took 10.782
+[2023.04.06-14.44.36:708][ 70]LogSlate: Window 'Open Level' being destroyed
+[2023.04.06-15.02.44:212][266]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.06-15.02.44:233][266]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.06-15.02.44:281][267]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.06-15.02.57:995][599]LogContentBrowser: Attempting asset rename: NewFolder -> Main_Character
+[2023.04.06-15.02.57:996][599]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.06-15.03.03:674][743]LogViewport: Scene viewport resized to 1556x603, mode Windowed.
+[2023.04.06-15.03.03:750][745]LogViewport: Scene viewport resized to 1556x576, mode Windowed.
+[2023.04.06-15.03.03:844][747]LogViewport: Scene viewport resized to 1556x541, mode Windowed.
+[2023.04.06-15.03.03:925][749]LogViewport: Scene viewport resized to 1556x515, mode Windowed.
+[2023.04.06-15.03.04:006][751]LogViewport: Scene viewport resized to 1556x486, mode Windowed.
+[2023.04.06-15.03.04:084][753]LogViewport: Scene viewport resized to 1556x449, mode Windowed.
+[2023.04.06-15.03.04:160][755]LogViewport: Scene viewport resized to 1556x447, mode Windowed.
+[2023.04.06-15.03.04:496][782]LogViewport: Scene viewport resized to 1556x449, mode Windowed.
+[2023.04.06-15.03.04:680][795]LogViewport: Scene viewport resized to 1556x456, mode Windowed.
+[2023.04.06-15.03.04:733][797]LogViewport: Scene viewport resized to 1556x467, mode Windowed.
+[2023.04.06-15.04.46:936][383]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\shane\Desktop\blender library\objects\2115_Main_Character\Rigged_Main_Character_T-Pose.fbx)
+[2023.04.06-15.04.47:896][383]LogFbx: Loading FBX Scene from C:\Users\shane\Desktop\blender library\objects\2115_Main_Character\Rigged_Main_Character_T-Pose.fbx
+[2023.04.06-15.04.48:302][383]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-15.07.11:056][383]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-15.07.11:376][383]LogFbx: Valid bind pose for Pose (BindPose) - Merged_Retopology
+[2023.04.06-15.07.11:454][383]LogMaterial: Display: Material /Game/Main_Character/M_Trousers.M_Trousers needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.11:541][383]LogMaterial: Display: Missing cached shadermap for M_Trousers in PCD3D_SM5, Default, SM5 (DDC key hash: 68A23B95ED7A4B0F8734F73D7C0BA3C229F78AC7), compiling. 
+[2023.04.06-15.07.12:131][383]LogMaterial: Display: Missing cached shadermap for M_Trousers in PCD3D_SM5, Default, SM5 (DDC key hash: 310E899FD8453C25C564702B5278E98865C95F07), compiling. 
+[2023.04.06-15.07.12:184][383]LogMaterial: Display: Material /Game/Main_Character/M_Skin.M_Skin needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.12:215][383]LogMaterial: Display: Missing cached shadermap for M_Skin in PCD3D_SM5, Default, SM5 (DDC key hash: 608EAB058BD90EA8F79D846F9480967CAD6FEB49), compiling. 
+[2023.04.06-15.07.12:302][383]LogMaterial: Display: Missing cached shadermap for M_Skin in PCD3D_SM5, Default, SM5 (DDC key hash: 1FC8ECA5BD976652DE8767D345A7A1DBA879379F), compiling. 
+[2023.04.06-15.07.12:351][383]LogMaterial: Display: Material /Game/Main_Character/M_Boots.M_Boots needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.12:383][383]LogMaterial: Display: Missing cached shadermap for M_Boots in PCD3D_SM5, Default, SM5 (DDC key hash: 779F702855794E585FBECCAD226E1035E7930196), compiling. 
+[2023.04.06-15.07.12:446][383]LogMaterial: Display: Missing cached shadermap for M_Boots in PCD3D_SM5, Default, SM5 (DDC key hash: DB0F4D7B0A03B7F6FAEFF5352AC1827607D2184C), compiling. 
+[2023.04.06-15.07.12:477][383]LogMaterial: Display: Material /Game/Main_Character/M_Boot_souls.M_Boot_souls needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.12:501][383]LogMaterial: Display: Missing cached shadermap for M_Boot_souls in PCD3D_SM5, Default, SM5 (DDC key hash: 69211A94709D7BC9BD8DB82F3B6D2DADF4C6A28D), compiling. 
+[2023.04.06-15.07.12:560][383]LogMaterial: Display: Missing cached shadermap for M_Boot_souls in PCD3D_SM5, Default, SM5 (DDC key hash: C38EB94F1E71764917DF6D3E413FBC5896052BD5), compiling. 
+[2023.04.06-15.07.12:596][383]LogMaterial: Display: Material /Game/Main_Character/M_Circuitry.M_Circuitry needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.12:631][383]LogMaterial: Display: Missing cached shadermap for M_Circuitry in PCD3D_SM5, Default, SM5 (DDC key hash: 89DFFC31E007FCA8E8A068B5FB0759723CC7A285), compiling. 
+[2023.04.06-15.07.13:361][383]LogMaterial: Display: Missing cached shadermap for M_Circuitry in PCD3D_SM5, Default, SM5 (DDC key hash: 45DBF82AA2A2A0303260A910D2F142879B501CC4), compiling. 
+[2023.04.06-15.07.13:572][383]LogTexture: Display: Building textures: /Game/Main_Character/head_texture.head_texture (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.06-15.07.13:607][383]LogMaterial: Display: Material /Game/Main_Character/M_T-Shirt_001.M_T-Shirt_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.13:627][383]LogMaterial: Display: Missing cached shadermap for M_T-Shirt_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 76523C617E9C8118F7248225289E75E0DEE34567), compiling. 
+[2023.04.06-15.07.13:692][383]LogMaterial: Display: Missing cached shadermap for M_T-Shirt_001 in PCD3D_SM5, Default, SM5 (DDC key hash: DDD945FBD2E3D86999AB7020A89005EAA4BC9785), compiling. 
+[2023.04.06-15.07.13:728][383]LogFbx: Triangulating skeletal mesh Merged_Retopology
+[2023.04.06-15.07.15:425][383]LogMaterial: Display: Material /Game/Main_Character/M_Coat.M_Coat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.15:434][383]LogMaterial: Display: Missing cached shadermap for M_Coat in PCD3D_SM5, Default, SM5 (DDC key hash: 209FB5B67AF5D0171DA8D399F67E9BE17F9F165A), compiling. 
+[2023.04.06-15.07.15:509][383]LogMaterial: Display: Missing cached shadermap for M_Coat in PCD3D_SM5, Default, SM5 (DDC key hash: E12D06580D065EA503BFC2E8F30C010281E2E014), compiling. 
+[2023.04.06-15.07.15:546][383]LogFbx: Triangulating skeletal mesh TrenchCoat_Retopology
+[2023.04.06-15.07.15:747][383]LogMaterial: Display: Material /Game/Main_Character/M_Eye.M_Eye needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.15:757][383]LogMaterial: Display: Missing cached shadermap for M_Eye in PCD3D_SM5, Default, SM5 (DDC key hash: C9356D3B2FE614EAA48BE1E9FA21BC35BC34CC89), compiling. 
+[2023.04.06-15.07.16:360][383]LogMaterial: Display: Missing cached shadermap for M_Eye in PCD3D_SM5, Default, SM5 (DDC key hash: 90C0B69F5F22B578C716A56F1D1C9ADF9C274532), compiling. 
+[2023.04.06-15.07.16:420][383]LogTexture: Display: Building textures: /Game/Main_Character/eyeball_texture_paint.eyeball_texture_paint (TFO_AutoDXT, 4028X4028 X1X1) (Required Memory Estimate: 309.463196 MB), EncodeSpeed: Fast
+[2023.04.06-15.07.16:420][383]LogFbx: Triangulating skeletal mesh Eye
+[2023.04.06-15.07.16:537][383]LogMaterial: Display: Material /Game/Main_Character/M_Cornea_Texture.M_Cornea_Texture needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.06-15.07.16:547][383]LogMaterial: Display: Missing cached shadermap for M_Cornea_Texture in PCD3D_SM5, Default, SM5 (DDC key hash: 95A1065743901444466944EF1A77EFB8ED6F01F1), compiling. 
+[2023.04.06-15.07.16:627][383]LogMaterial: Display: Missing cached shadermap for M_Cornea_Texture in PCD3D_SM5, Default, SM5 (DDC key hash: 362E638730BB1C2C1DC803CF846845CAB5DFB031), compiling. 
+[2023.04.06-15.07.16:674][383]LogFbx: Triangulating skeletal mesh Cornea
+[2023.04.06-15.07.17:239][383]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2023.04.06-15.07.19:800][383]LogSkeletalMesh: Section 0: Material=0, 7338 triangles
+[2023.04.06-15.07.19:800][383]LogSkeletalMesh: Section 1: Material=1, 3117 triangles
+[2023.04.06-15.07.19:800][383]LogSkeletalMesh: Section 2: Material=2, 2396 triangles
+[2023.04.06-15.07.19:800][383]LogSkeletalMesh: Section 3: Material=3, 692 triangles
+[2023.04.06-15.07.19:800][383]LogSkeletalMesh: Section 4: Material=4, 15570 triangles
+[2023.04.06-15.07.19:800][383]LogSkeletalMesh: Section 5: Material=5, 7407 triangles
+[2023.04.06-15.07.19:801][383]LogSkeletalMesh: Section 6: Material=6, 5132 triangles
+[2023.04.06-15.07.19:801][383]LogSkeletalMesh: Section 7: Material=7, 2300 triangles
+[2023.04.06-15.07.19:801][383]LogSkeletalMesh: Section 8: Material=8, 2428 triangles
+[2023.04.06-15.07.19:903][383]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Rigged_Main_Character_T-Pose) ...
+[2023.04.06-15.07.20:326][383]LogSkeletalMesh: Building Skeletal Mesh Rigged_Main_Character_T-Pose...
+[2023.04.06-15.07.22:453][383]LogSkeletalMesh: Built Skeletal Mesh [2.56s] /Game/Main_Character/Rigged_Main_Character_T-Pose.Rigged_Main_Character_T-Pose
+[2023.04.06-15.07.22:839][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-15.07.22:931][383]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-15.07.23:126][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-15.07.23:581][383]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'eyeball_texture_paint' was renamed 'eyeball_texture_paint_ncl1_1' 
+[2023.04.06-15.07.23:593][383]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.06-15.07.23:593][383]FBXImport: Warning: Mesh 'TrenchCoat_Retopology' has no UV set. Creating a default set. 
+[2023.04.06-15.07.34:156][522]LogShaderCompilers: Display: ================================================
+[2023.04.06-15.07.34:156][522]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.06-15.07.34:156][522]LogShaderCompilers: Display: Total job queries 288, among them cache hits 0 (0.00%)
+[2023.04.06-15.07.34:156][522]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 4 distinct outputs (80.00%)
+[2023.04.06-15.07.34:156][522]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.06-15.07.34:156][522]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.06-15.07.34:156][522]LogShaderCompilers: Display: Shaders Compiled: 288
+[2023.04.06-15.07.34:156][522]LogShaderCompilers: Display: Jobs assigned 32, completed 5 (15.62%)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Job execution time: average 22.11 s, max 22.11 s
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Job life time (pending + execution): average 22.18 s, max 22.18
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.18 s
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 8.00 jobs/batch
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Average processing rate: 0.23 jobs/sec
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Effective parallelization: 0.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 3.27 sec, max 3.27 sec, min 3.27 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 2.92 sec, max 2.92 sec, min 2.92 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.59 sec, max 2.59 sec, min 2.59 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 23.92% of total time (compiled    1 times, average 3.27 sec, max 3.27 sec, min 3.27 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 22.34% of total time (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 21.36% of total time (compiled    1 times, average 2.92 sec, max 2.92 sec, min 2.92 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 18.90% of total time (compiled    1 times, average 2.59 sec, max 2.59 sec, min 2.59 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 13.48% of total time (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2023.04.06-15.07.34:160][522]LogShaderCompilers: Display: ================================================
+[2023.04.06-15.07.57:238][903]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.06-15.08.17:078][225]LogSlate: Window 'Message Log' being destroyed
+[2023.04.06-15.08.17:097][225]LogSlate: Window 'Message Log' being destroyed
+[2023.04.06-15.08.20:051][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.06-15.08.20:076][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Alpha_Level' took 0.281
+[2023.04.06-15.08.20:141][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main_Character/Rigged_Main_Character_T-Pose] ([1] browsable assets)...
+[2023.04.06-15.08.20:158][279]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Main_Character/Rigged_Main_Character_T-Pose.Rigged_Main_Character_T-Pose]
+[2023.04.06-15.08.20:158][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main_Character/Rigged_Main_Character_T-Pose]
+[2023.04.06-15.08.20:472][279]LogPackageLocalizationCache: Processed 36 localized package path(s) for 1 prioritized culture(s) in 0.193602 seconds
+[2023.04.06-15.08.20:886][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Character/Rigged_Main_Character_T-Pose_Auto1
+[2023.04.06-15.08.20:886][279]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Rigged_Main_Character_T-Pose_Aut80FADD8D410B2E2DCD484A96BD8E6C64.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Autosaves/Game/Main_Character/Rigged_Main_Character_T-Pose_Auto1.uasset'
+[2023.04.06-15.08.20:972][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main_Character/Rigged_Main_Character_T-Pose_Skeleton] ([1] browsable assets)...
+[2023.04.06-15.08.20:987][279]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Main_Character/Rigged_Main_Character_T-Pose_Skeleton.Rigged_Main_Character_T-Pose_Skeleton]
+[2023.04.06-15.08.20:987][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main_Character/Rigged_Main_Character_T-Pose_Skeleton]
+[2023.04.06-15.08.20:990][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Character/Rigged_Main_Character_T-Pose_Skeleton_Auto1
+[2023.04.06-15.08.20:990][279]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Rigged_Main_Character_T-Pose_Ske45CB8B7149A91FE168D4EF9881CD9F55.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Autosaves/Game/Main_Character/Rigged_Main_Character_T-Pose_Skeleton_Auto1.uasset'
+[2023.04.06-15.08.20:994][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main_Character/Rigged_Main_Character_T-Pose_PhysicsAsset] ([1] browsable assets)...
+[2023.04.06-15.08.21:004][279]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Main_Character/Rigged_Main_Character_T-Pose_PhysicsAsset.Rigged_Main_Character_T-Pose_PhysicsAsset]
+[2023.04.06-15.08.21:004][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main_Character/Rigged_Main_Character_T-Pose_PhysicsAsset]
+[2023.04.06-15.08.21:019][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Character/Rigged_Main_Character_T-Pose_PhysicsAsset_Auto1
+[2023.04.06-15.08.21:019][279]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Rigged_Main_Character_T-Pose_PhyD680C6D943B278009165FCA203F36500.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Autosaves/Game/Main_Character/Rigged_Main_Character_T-Pose_PhysicsAsset_Auto1.uasset'
+[2023.04.06-15.08.21:021][279]LogFileHelpers: Auto-saving content packages took 0.944
+[2023.04.06-15.09.48:970][962]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.06-15.09.48:987][962]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.06-15.09.49:007][963]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.06-15.09.55:744][157]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.04.06-15.09.55:746][157]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.06-15.10.29:007][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/eyeball_texture_paint
+[2023.04.06-15.10.29:007][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/eyeball_texture_paint0429598D40B8794A17F24ABBE21377FF.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/eyeball_texture_paint.uasset'
+[2023.04.06-15.10.29:080][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/head_texture
+[2023.04.06-15.10.29:080][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/head_texture335C395B4CBE74BAB6BF13951BBD8743.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/head_texture.uasset'
+[2023.04.06-15.11.16:402][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.04.06-15.11.16:402][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.025374s
+[2023.04.06-15.11.17:450][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005697s (1.098493s overbudget)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: ================================================
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Total job queries 368, among them cache hits 0 (0.00%)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 28 distinct outputs (25.00%)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: RAM used: 0.08 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Shaders Compiled: 314
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Jobs assigned 112, completed 112 (100.00%)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Average time worker was idle: 6.89 s
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Time job spent in pending queue: average 3.98 s, longest 47.30 s
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Job execution time: average 11.06 s, max 37.11 s
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Job life time (pending + execution): average 15.04 s, max 48.32
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 113.41 s
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Jobs were issued in 84 batches (only local compilation was used), average 1.33 jobs/batch
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Average processing rate: 0.99 jobs/sec
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Effective parallelization: 2.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 2.56 sec, max 3.62 sec, min 1.83 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   20 times, average 2.49 sec, max 3.04 sec, min 1.58 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   20 times, average 2.47 sec, max 2.82 sec, min 1.67 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 2.36 sec, max 3.07 sec, min 1.64 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 2.29 sec, max 3.45 sec, min 1.75 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.83% of total time (compiled   20 times, average 2.49 sec, max 3.04 sec, min 1.58 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.60% of total time (compiled   20 times, average 2.47 sec, max 2.82 sec, min 1.67 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.28% of total time (compiled   12 times, average 2.25 sec, max 2.59 sec, min 1.76 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.28% of total time (compiled    4 times, average 2.56 sec, max 3.62 sec, min 1.83 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.16% of total time (compiled   12 times, average 0.83 sec, max 1.37 sec, min 0.65 sec)
+[2023.04.06-15.11.17:475][559]LogShaderCompilers: Display: ================================================
+[2023.04.06-15.11.17:526][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_Boot_souls
+[2023.04.06-15.11.17:526][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_Boot_souls5D72591E4BF35FBF840A408A540CFFC2.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_Boot_souls.uasset'
+[2023.04.06-15.11.19:733][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.06-15.11.30:122][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004930s (10.544110s overbudget)
+[2023.04.06-15.11.30:143][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_Boots
+[2023.04.06-15.11.30:144][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_BootsB25446054BCD010E2878218382F1CFF2.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_Boots.uasset'
+[2023.04.06-15.11.32:220][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.06-15.11.41:744][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003016s (9.555431s overbudget)
+[2023.04.06-15.11.41:767][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_Circuitry
+[2023.04.06-15.11.41:768][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_CircuitryFB18484D4AE3B89051951CA0FB48F3F0.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_Circuitry.uasset'
+[2023.04.06-15.11.43:925][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.06-15.11.52:452][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001023s (8.637236s overbudget)
+[2023.04.06-15.11.52:477][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_Coat
+[2023.04.06-15.11.52:477][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_CoatCBECC2DC48C607B2C4DB01AB78E65474.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_Coat.uasset'
+[2023.04.06-15.11.54:543][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.06-15.12.03:232][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001021s (8.710472s overbudget)
+[2023.04.06-15.12.03:256][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_Cornea_Texture
+[2023.04.06-15.12.03:256][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_Cornea_Texture47565ABB4E18DC333CBC3EB6305738F6.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_Cornea_Texture.uasset'
+[2023.04.06-15.12.05:401][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.06-15.12.14:671][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004024s (9.369408s overbudget)
+[2023.04.06-15.12.14:695][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_Eye
+[2023.04.06-15.12.14:695][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_Eye6A4CF48748C9BC91BBED989D02E59CEA.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_Eye.uasset'
+[2023.04.06-15.12.16:863][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.06-15.12.25:475][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004001s (8.734847s overbudget)
+[2023.04.06-15.12.25:498][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_Skin
+[2023.04.06-15.12.25:499][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_SkinD68D661348AFF257CBEE2D825B9E261F.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_Skin.uasset'
+[2023.04.06-15.12.27:752][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.06-15.12.36:279][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001024s (8.724123s overbudget)
+[2023.04.06-15.12.36:306][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_T-Shirt_001
+[2023.04.06-15.12.36:306][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_T-Shirt_001E2CED5AE4B6418D2C381708EA3088813.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_T-Shirt_001.uasset'
+[2023.04.06-15.12.38:395][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.06-15.12.47:074][559]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003012s (8.720993s overbudget)
+[2023.04.06-15.12.47:098][559]LogSavePackage: Moving output files for package: /Game/Main_Character/Materials/M_Trousers
+[2023.04.06-15.12.47:098][559]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M_TrousersF634EE574BC2BD91CD66E7BDFEE14C8A.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Materials/M_Trousers.uasset'
+[2023.04.06-15.12.47:329][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.04.06-15.12.47:341][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.06-15.12.47:352][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.06-15.12.47:469][559]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.06-15.12.47:505][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_Cornea_Texture.M_Cornea_Texture
+[2023.04.06-15.12.47:505][559]LogContentValidation: Display: Validating Texture2D /Game/Main_Character/Materials/eyeball_texture_paint.eyeball_texture_paint
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_Eye.M_Eye
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_Coat.M_Coat
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_T-Shirt_001.M_T-Shirt_001
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Texture2D /Game/Main_Character/Materials/head_texture.head_texture
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_Circuitry.M_Circuitry
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_Boot_souls.M_Boot_souls
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_Boots.M_Boots
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_Skin.M_Skin
+[2023.04.06-15.12.47:506][559]LogContentValidation: Display: Validating Material /Game/Main_Character/Materials/M_Trousers.M_Trousers
+[2023.04.06-15.13.02:718][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.06-15.13.04:041][825]LogSavePackage: Moving output files for package: /Game/Main_Character/Rigged_Main_Character_T-Pose
+[2023.04.06-15.13.04:041][825]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Rigged_Main_Character_T-PoseADFC32F34135B9537978EF99324FAEDF.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Rigged_Main_Character_T-Pose.uasset'
+[2023.04.06-15.13.04:045][825]LogSavePackage: Moving output files for package: /Game/Main_Character/Rigged_Main_Character_T-Pose_Skeleton
+[2023.04.06-15.13.04:046][825]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Rigged_Main_Character_T-Pose_Ske6C5EACE340C9FB87D9C4E1B1747D7B3F.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Rigged_Main_Character_T-Pose_Skeleton.uasset'
+[2023.04.06-15.13.04:064][825]LogSavePackage: Moving output files for package: /Game/Main_Character/Rigged_Main_Character_T-Pose_PhysicsAsset
+[2023.04.06-15.13.04:065][825]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Rigged_Main_Character_T-Pose_Phy6EEC6211415BD507C018749E1811DDC2.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Main_Character/Rigged_Main_Character_T-Pose_PhysicsAsset.uasset'
+[2023.04.06-15.13.04:081][825]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.06-15.13.04:081][825]LogContentValidation: Display: Validating PhysicsAsset /Game/Main_Character/Rigged_Main_Character_T-Pose_PhysicsAsset.Rigged_Main_Character_T-Pose_PhysicsAsset
+[2023.04.06-15.13.04:081][825]LogContentValidation: Display: Validating Skeleton /Game/Main_Character/Rigged_Main_Character_T-Pose_Skeleton.Rigged_Main_Character_T-Pose_Skeleton
+[2023.04.06-15.13.04:081][825]LogContentValidation: Display: Validating SkeletalMesh /Game/Main_Character/Rigged_Main_Character_T-Pose.Rigged_Main_Character_T-Pose
