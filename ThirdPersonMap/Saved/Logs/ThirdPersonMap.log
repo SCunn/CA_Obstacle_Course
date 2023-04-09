@@ -4211,3 +4211,38 @@ sports_coupe_back_wheels_coupe8
 [2023.04.09-15.04.59:477][699]LogFileHelpers: Saving map 'Alpha_Level' took 0.415
 [2023.04.09-15.04.59:530][699]AssetCheck: New page: Asset Save: Alpha_Level
 [2023.04.09-15.04.59:530][699]LogContentValidation: Display: Validating World /Game/levels/Alpha_Level.Alpha_Level
+[2023.04.09-15.45.15:945][527]LogSlate: Took 0.014342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.09-15.45.51:194][340]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1030.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.09-15.45.51:196][340]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1031.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.09-15.45.51:198][340]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1029.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.09-15.45.51:200][340]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1028.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.09-15.45.51:204][340]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1023.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.09-15.45.51:206][340]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1025.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.09-15.45.51:208][340]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1026.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.09-15.45.51:209][340]LogPhysics: Warning: Scale for /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1027.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.09-15.46.42:586][145]LogDerivedDataCache: C:/Users/shane/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.817 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.09-15.46.44:596][217]Cmd: DUPLICATE
+[2023.04.09-15.46.44:596][217]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.48.59:337][ 43]Cmd: DUPLICATE
+[2023.04.09-15.48.59:337][ 43]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.49.56:064][164]Cmd: DUPLICATE
+[2023.04.09-15.49.56:064][164]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.50.10:757][714]Cmd: DUPLICATE
+[2023.04.09-15.50.10:758][714]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.51.42:997][233]Cmd: DUPLICATE
+[2023.04.09-15.51.42:998][233]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.53.04:033][334]Cmd: DUPLICATE
+[2023.04.09-15.53.04:033][334]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.53.34:519][508]Cmd: DUPLICATE
+[2023.04.09-15.53.34:519][508]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.54.29:030][550]Cmd: DUPLICATE
+[2023.04.09-15.54.29:030][550]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.55.21:139][502]Cmd: DUPLICATE
+[2023.04.09-15.55.21:139][502]Cmd: ACTOR DUPLICATE
+[2023.04.09-15.56.08:625][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.04.09-15.56.08:842][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.04.09-15.56.09:138][273]LogSavePackage: Moving output files for package: /Game/levels/Alpha_Level
+[2023.04.09-15.56.09:139][273]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Alpha_Level85DCB9E34CF9F83C067ACC89B3173C8F.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/levels/Alpha_Level.umap'
+[2023.04.09-15.56.09:235][273]LogFileHelpers: Saving map 'Alpha_Level' took 0.504
+[2023.04.09-15.56.09:290][273]AssetCheck: New page: Asset Save: Alpha_Level
+[2023.04.09-15.56.09:290][273]LogContentValidation: Display: Validating World /Game/levels/Alpha_Level.Alpha_Level
