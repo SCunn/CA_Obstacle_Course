@@ -2969,3 +2969,959 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.13-16.58.00:979][979]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1056b9d8-4ae2-48a8-a93e-58d0ce093336}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=25.93
 [2023.04.13-16.58.00:980][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2023.04.13-16.58.01:008][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.13-17.40.50:202][ 38]LogDerivedDataCache: C:/Users/shane/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.215 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.13-17.52.52:214][128]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-17.52.52:214][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-17.53.20:690][492]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Rifle_Idle1.Rifle_Idle1
+[2023.04.13-17.53.20:702][492]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Rifle_Idle1.Rifle_Idle1
+[2023.04.13-17.53.20:703][492]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/MainCharacter/SKM_MainCharacter.SKM_MainCharacter as actor: SkeletalMeshActor /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.SkeletalMeshActor_0
+[2023.04.13-17.53.20:706][492]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/MainCharacter/SKM_MainCharacter.SKM_MainCharacter as actor: SkeletalMeshActor /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.SkeletalMeshActor_0
+[2023.04.13-17.53.22:065][547]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Rifle_Idle1.Rifle_Idle1
+[2023.04.13-17.53.22:065][547]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Rifle_Idle1.Rifle_Idle1
+[2023.04.13-17.53.22:067][547]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/MainCharacter/SKM_MainCharacter.SKM_MainCharacter as actor: SkeletalMeshActor /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.SkeletalMeshActor_1
+[2023.04.13-17.53.22:069][547]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/MainCharacter/SKM_MainCharacter.SKM_MainCharacter as actor: SkeletalMeshActor /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.SkeletalMeshActor_1
+[2023.04.13-17.53.53:864][139]Cmd: DELETE
+[2023.04.13-17.53.53:864][139]Cmd: ACTOR DELETE
+[2023.04.13-17.53.53:904][139]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.04.13-17.53.53:993][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.04.13-17.53.54:003][139]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2023.04.13-17.54.23:830][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Empi_Hard_Strike.Empi_Hard_Strike
+[2023.04.13-17.54.23:907][579]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Empi_Hard_Strike.Empi_Hard_Strike
+[2023.04.13-17.54.23:907][579]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Empi_Hard_Strike.Empi_Hard_Strike
+[2023.04.13-17.54.23:908][579]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.SkeletalMeshActor_2
+[2023.04.13-17.54.23:935][579]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.SkeletalMeshActor_2
+[2023.04.13-17.54.25:592][672]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Empi_Hard_Strike.Empi_Hard_Strike
+[2023.04.13-17.54.25:592][672]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Empi_Hard_Strike.Empi_Hard_Strike
+[2023.04.13-17.54.25:594][672]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.SkeletalMeshActor_4
+[2023.04.13-17.54.25:630][672]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny as actor: SkeletalMeshActor /Game/levels/Alpha_Level.Alpha_Level:PersistentLevel.SkeletalMeshActor_4
+[2023.04.13-17.54.27:574][761]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-17.54.27:592][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-17.54.27:592][761]PIE: New page: PIE session: Alpha_Level (13 Apr 2023, 19:54:27)
+[2023.04.13-17.54.27:592][761]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Alpha_Level
+[2023.04.13-17.54.27:712][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119820s)
+[2023.04.13-17.54.27:712][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Alpha_Level.Alpha_Level to /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level (0.119938s)
+[2023.04.13-17.54.27:712][761]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.13-17.54.27:712][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-17.54.27:713][761]LogAIModule: Creating AISystem for world Alpha_Level
+[2023.04.13-17.54.27:714][761]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2023.04.13-17.54.27:768][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.04.13-17.54.27:779][761]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.13-17.54.27:779][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-17.54.27:779][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-17.54.27:779][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-17.54.27:779][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-17.54.27:779][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-17.54.27:779][761]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-17.54.27:779][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-17.54.27:780][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-17.54.27:780][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-17.54.27:780][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-17.54.27:780][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-17.54.27:783][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-17.54.27:829][761]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.13-17.54.27:829][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-17.54.27:829][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-17.54.27:829][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-17.54.27:831][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.13-17.54.27:831][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.13-17.54.27:833][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.13-17.54.27:833][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.13-17.54.27:833][761]LogInit: FAudioDevice initialized.
+[2023.04.13-17.54.27:833][761]LogAudio: Display: Audio Device (ID: 3) registered with world 'Alpha_Level'.
+[2023.04.13-17.54.27:848][761]LogLoad: Game class is 'EnemyGameMode_C'
+[2023.04.13-17.54.27:875][761]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1023.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.54.27:875][761]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1025.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.54.27:875][761]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1026.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.54.27:876][761]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1027.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.54.27:876][761]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1028.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.54.27:876][761]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1029.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.54.27:876][761]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1030.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.54.27:876][761]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1031.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.54.27:950][761]LogWorld: Bringing World /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level up for play (max tick rate 0) at 2023.04.13-18.54.27
+[2023.04.13-17.54.27:953][761]LogWorld: Bringing up level for play took: 0.104504
+[2023.04.13-17.54.27:955][761]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.04.13-17.54.27:961][761]PIE: Server logged in
+[2023.04.13-17.54.27:962][761]PIE: Play in editor total start time 0.374 seconds.
+[2023.04.13-17.54.29:505][805]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:531][806]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:558][807]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:585][808]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:612][809]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:639][810]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:667][811]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:694][812]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:723][813]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:749][814]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:777][815]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:806][816]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:833][817]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:859][818]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:886][819]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:913][820]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:939][821]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:966][822]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.29:986][823]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:007][824]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:035][825]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:065][826]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:092][827]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:119][828]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:147][829]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:173][830]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:200][831]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:230][832]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:257][833]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:283][834]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:310][835]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:336][836]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:364][837]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:390][838]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:419][839]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:445][840]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:473][841]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:501][842]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:528][843]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:559][844]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:585][845]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:614][846]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:641][847]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:669][848]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:700][849]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:729][850]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:756][851]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:782][852]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:809][853]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:838][854]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:865][855]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:892][856]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:918][857]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:946][858]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.30:973][859]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:000][860]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:026][861]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:053][862]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:080][863]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:106][864]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:132][865]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:158][866]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:185][867]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:213][868]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:241][869]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:269][870]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:296][871]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:326][872]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:351][873]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:379][874]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:406][875]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:434][876]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:461][877]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:487][878]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:514][879]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:541][880]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:568][881]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:597][882]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:623][883]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:651][884]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:678][885]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:705][886]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:731][887]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:758][888]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:785][889]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:812][890]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:840][891]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:867][892]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:892][893]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:919][894]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:946][895]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.31:973][896]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:000][897]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:026][898]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:053][899]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:080][900]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:109][901]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:138][902]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:164][903]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:191][904]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:218][905]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:245][906]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:273][907]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:300][908]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:327][909]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:356][910]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:383][911]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:412][912]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:439][913]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:466][914]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:496][915]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:524][916]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:555][917]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:585][918]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:616][919]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:647][920]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:678][921]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:708][922]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:741][923]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:773][924]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:805][925]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:839][926]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:868][927]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:900][928]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:929][929]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:959][930]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.32:989][931]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:019][932]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:049][933]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:079][934]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:107][935]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:135][936]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:163][937]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:190][938]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:218][939]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:248][940]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:276][941]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:305][942]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:334][943]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:365][944]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:394][945]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:424][946]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:452][947]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:483][948]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:512][949]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:539][950]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:566][951]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:595][952]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:621][953]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:647][954]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:674][955]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:701][956]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:730][957]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:756][958]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:784][959]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:813][960]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:845][961]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:875][962]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:908][963]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:940][964]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.33:974][965]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:010][966]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:044][967]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:075][968]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:103][969]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:131][970]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:162][971]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:194][972]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:228][973]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:257][974]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:287][975]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:316][976]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:351][977]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:382][978]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:415][979]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:447][980]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:479][981]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:514][982]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:551][983]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:584][984]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:616][985]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:648][986]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:682][987]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:719][988]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:752][989]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:786][990]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:820][991]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:854][992]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:887][993]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:922][994]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:955][995]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.34:990][996]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:019][997]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:053][998]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:089][999]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:125][  0]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:159][  1]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:197][  2]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:232][  3]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:262][  4]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:292][  5]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:321][  6]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:350][  7]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:380][  8]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:410][  9]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:441][ 10]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:470][ 11]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:501][ 12]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:531][ 13]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:560][ 14]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:593][ 15]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:621][ 16]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:652][ 17]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:686][ 18]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:716][ 19]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:747][ 20]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:774][ 21]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:801][ 22]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:831][ 23]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:858][ 24]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:887][ 25]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:913][ 26]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:941][ 27]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:969][ 28]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.35:998][ 29]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:024][ 30]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:052][ 31]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:078][ 32]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:105][ 33]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:132][ 34]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:159][ 35]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:187][ 36]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:215][ 37]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:244][ 38]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:272][ 39]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:299][ 40]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:327][ 41]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:356][ 42]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:383][ 43]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:411][ 44]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:439][ 45]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:466][ 46]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:494][ 47]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:523][ 48]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:550][ 49]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:579][ 50]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:607][ 51]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:634][ 52]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:661][ 53]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:688][ 54]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:717][ 55]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:743][ 56]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:770][ 57]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:796][ 58]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:824][ 59]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:851][ 60]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:878][ 61]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:903][ 62]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:930][ 63]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:956][ 64]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.36:983][ 65]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:010][ 66]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:036][ 67]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:063][ 68]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:089][ 69]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:116][ 70]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:142][ 71]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:168][ 72]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:195][ 73]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:221][ 74]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:251][ 75]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:278][ 76]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:304][ 77]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:332][ 78]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:358][ 79]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:385][ 80]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:416][ 81]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:444][ 82]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:474][ 83]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:505][ 84]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:534][ 85]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:562][ 86]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:590][ 87]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:617][ 88]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:643][ 89]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:669][ 90]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:695][ 91]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:722][ 92]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:752][ 93]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:779][ 94]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:807][ 95]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:835][ 96]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:862][ 97]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:889][ 98]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:916][ 99]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:943][100]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.37:971][101]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:000][102]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:026][103]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:053][104]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:079][105]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:105][106]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:133][107]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:161][108]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:186][109]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:214][110]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:241][111]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:270][112]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:297][113]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:323][114]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:350][115]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:377][116]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:404][117]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:429][118]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:456][119]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:484][120]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:511][121]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:537][122]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:563][123]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:590][124]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:616][125]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:642][126]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:670][127]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:696][128]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:725][129]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:753][130]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:779][131]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:806][132]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:833][133]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:859][134]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:887][135]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:912][136]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:940][137]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:968][138]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.38:995][139]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:014][140]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:031][141]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:086][142]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:138][143]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:164][144]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:190][145]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:219][146]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:246][147]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:274][148]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:301][149]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:327][150]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:352][151]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:378][152]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:404][153]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:431][154]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:458][155]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:486][156]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:516][157]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:545][158]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:573][159]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:601][160]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:630][161]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:656][162]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:683][163]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:707][164]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:735][165]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:761][166]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:786][167]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:814][168]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:840][169]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:866][170]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:892][171]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:918][172]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:947][173]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.39:975][174]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.40:001][175]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.40:027][176]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.40:051][177]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.54.40:069][178]LogChaos: Invalid tetrahedron encountered in InitializeEPA
+[2023.04.13-17.55.27:941][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-17.55.27:941][ 11]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Alpha_Level
+[2023.04.13-17.55.27:943][ 11]LogWorld: UWorld::CleanupWorld for Alpha_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-17.55.27:957][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-17.55.27:978][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-17.55.27:987][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-17.55.28:038][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.13-17.55.28:039][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.13-17.55.28:041][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.13-17.55.28:049][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-17.55.28:075][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.04.13-17.55.28:197][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.04.13-17.55.30:780][128]Cmd: DELETE
+[2023.04.13-17.55.30:780][128]Cmd: ACTOR DELETE
+[2023.04.13-17.55.30:814][128]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.04.13-17.55.30:879][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.13-17.55.30:884][128]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2023.04.13-17.55.36:097][426]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-17.55.36:118][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-17.55.36:118][426]PIE: New page: PIE session: Alpha_Level (13 Apr 2023, 19:55:36)
+[2023.04.13-17.55.36:119][426]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Alpha_Level
+[2023.04.13-17.55.36:240][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121146s)
+[2023.04.13-17.55.36:240][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Alpha_Level.Alpha_Level to /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level (0.121278s)
+[2023.04.13-17.55.36:240][426]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.13-17.55.36:240][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-17.55.36:241][426]LogAIModule: Creating AISystem for world Alpha_Level
+[2023.04.13-17.55.36:242][426]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2023.04.13-17.55.36:291][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.04.13-17.55.36:294][426]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.13-17.55.36:294][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-17.55.36:294][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-17.55.36:294][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-17.55.36:294][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-17.55.36:294][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-17.55.36:294][426]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-17.55.36:294][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-17.55.36:294][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-17.55.36:294][426]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-17.55.36:294][426]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-17.55.36:294][426]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-17.55.36:297][426]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-17.55.36:350][426]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.13-17.55.36:350][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-17.55.36:350][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-17.55.36:350][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-17.55.36:351][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.13-17.55.36:351][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.04.13-17.55.36:353][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.13-17.55.36:353][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.13-17.55.36:353][426]LogInit: FAudioDevice initialized.
+[2023.04.13-17.55.36:353][426]LogAudio: Display: Audio Device (ID: 4) registered with world 'Alpha_Level'.
+[2023.04.13-17.55.36:373][426]LogLoad: Game class is 'EnemyGameMode_C'
+[2023.04.13-17.55.36:400][426]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1023.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.55.36:401][426]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1025.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.55.36:401][426]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1026.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.55.36:401][426]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1027.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.55.36:401][426]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1028.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.55.36:401][426]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1029.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.55.36:401][426]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1030.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.55.36:401][426]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1031.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.55.36:471][426]LogWorld: Bringing World /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level up for play (max tick rate 0) at 2023.04.13-18.55.36
+[2023.04.13-17.55.36:472][426]LogWorld: Bringing up level for play took: 0.099051
+[2023.04.13-17.55.36:475][426]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.04.13-17.55.36:481][426]PIE: Server logged in
+[2023.04.13-17.55.36:482][426]PIE: Play in editor total start time 0.369 seconds.
+[2023.04.13-17.55.49:148][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-17.55.49:148][922]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Alpha_Level
+[2023.04.13-17.55.49:149][922]LogWorld: UWorld::CleanupWorld for Alpha_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-17.55.49:156][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-17.55.49:192][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-17.55.49:202][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-17.55.49:248][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-17.55.49:255][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.13-17.55.49:257][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.13-17.55.49:285][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.04.13-17.55.49:324][923]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.04.13-17.56.46:334][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.04.13-17.56.46:657][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/Alpha_Level_Auto1
+[2023.04.13-17.56.46:658][982]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Alpha_Level_Auto163231CBF43FE69D9FB626F8C82D7F865.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Autosaves/Game/levels/Alpha_Level_Auto1.umap'
+[2023.04.13-17.56.46:671][982]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Alpha_Level' took 0.384
+[2023.04.13-17.56.46:671][982]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.384
+[2023.04.13-17.58.11:241][425]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-17.58.11:258][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-17.58.11:258][425]PIE: New page: PIE session: Alpha_Level (13 Apr 2023, 19:58:11)
+[2023.04.13-17.58.11:259][425]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Alpha_Level
+[2023.04.13-17.58.11:387][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128212s)
+[2023.04.13-17.58.11:387][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Alpha_Level.Alpha_Level to /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level (0.128333s)
+[2023.04.13-17.58.11:387][425]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.13-17.58.11:387][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-17.58.11:388][425]LogAIModule: Creating AISystem for world Alpha_Level
+[2023.04.13-17.58.11:389][425]LogPlayLevel: PIE: World Init took: (0.001790s)
+[2023.04.13-17.58.11:439][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.04.13-17.58.11:441][425]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.13-17.58.11:441][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-17.58.11:441][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-17.58.11:441][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-17.58.11:441][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-17.58.11:441][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-17.58.11:441][425]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-17.58.11:441][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-17.58.11:441][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-17.58.11:441][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-17.58.11:442][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-17.58.11:442][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-17.58.11:444][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-17.58.11:476][425]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.13-17.58.11:476][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-17.58.11:476][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-17.58.11:476][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-17.58.11:477][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.13-17.58.11:477][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.13-17.58.11:479][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.13-17.58.11:479][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.13-17.58.11:479][425]LogInit: FAudioDevice initialized.
+[2023.04.13-17.58.11:479][425]LogAudio: Display: Audio Device (ID: 5) registered with world 'Alpha_Level'.
+[2023.04.13-17.58.11:495][425]LogLoad: Game class is 'EnemyGameMode_C'
+[2023.04.13-17.58.11:523][425]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1023.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.58.11:524][425]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1025.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.58.11:524][425]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1026.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.58.11:524][425]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1027.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.58.11:524][425]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1028.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.58.11:524][425]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1029.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.58.11:524][425]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1030.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.58.11:524][425]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1031.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-17.58.11:598][425]LogWorld: Bringing World /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level up for play (max tick rate 0) at 2023.04.13-18.58.11
+[2023.04.13-17.58.11:600][425]LogWorld: Bringing up level for play took: 0.105396
+[2023.04.13-17.58.11:603][425]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.04.13-17.58.11:609][425]PIE: Server logged in
+[2023.04.13-17.58.11:610][425]PIE: Play in editor total start time 0.355 seconds.
+[2023.04.13-17.59.03:767][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-17.59.03:767][464]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Alpha_Level
+[2023.04.13-17.59.03:769][464]LogWorld: UWorld::CleanupWorld for Alpha_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-17.59.03:779][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-17.59.03:803][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-17.59.03:813][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-17.59.03:860][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.13-17.59.03:861][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.13-17.59.03:863][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.13-17.59.03:867][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-17.59.03:895][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.04.13-17.59.03:980][465]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.04.13-18.00.02:705][276]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemyAI/enemy_simple.enemy_simple
+[2023.04.13-18.00.02:706][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.05.38:991][749]LogViewport: Scene viewport resized to 1030x691, mode Windowed.
+[2023.04.13-18.09.09:992][711]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Enemy_Characters/Animations/AI/Enemy_BT_AnimBlueprint.Enemy_BT_AnimBlueprint
+[2023.04.13-18.09.10:019][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.09.10:145][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.09.10:171][711]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-18.09.11:195][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.09.11:407][711]LogViewport: Scene viewport resized to 365x413, mode Windowed.
+[2023.04.13-18.09.11:560][711]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.13-18.09.48:914][618]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Enemy_Characters/Animations/AI/Walk_BlendSpace1D.Walk_BlendSpace1D
+[2023.04.13-18.09.48:915][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.09.48:960][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-18.09.49:227][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.09.49:960][618]LogViewport: Scene viewport resized to 1055x542, mode Windowed.
+[2023.04.13-18.09.50:041][618]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.13-18.10.02:773][ 36]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.04.13-18.10.27:817][778]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose.SKM_Enemy_T-Pose
+[2023.04.13-18.10.27:836][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.10.27:908][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-18.10.28:732][778]LogViewport: Scene viewport resized to 1002x866, mode Windowed.
+[2023.04.13-18.10.32:098][856]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton.SKM_Enemy_T-Pose_Skeleton
+[2023.04.13-18.10.32:116][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.10.32:184][856]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-18.10.32:541][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.10.33:199][856]LogViewport: Scene viewport resized to 1062x866, mode Windowed.
+[2023.04.13-18.10.56:930][802]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.10.56:930][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.10.57:189][802]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.10.57:189][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.11.02:509][ 10]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.11.02:509][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.11.02:608][ 10]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.11.02:608][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.11.06:104][106]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.11.06:104][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.13.18:091][404]LogViewport: Scene viewport resized to 1030x693, mode Windowed.
+[2023.04.13-18.13.30:260][ 29]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.13.30:260][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.14.39:638][618]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Enemy_Characters/Animations/AI/Walk_BlendSpace1D.Walk_BlendSpace1D
+[2023.04.13-18.14.39:639][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.14.39:687][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-18.14.39:920][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.14.40:094][618]LogViewport: Scene viewport resized to 1055x542, mode Windowed.
+[2023.04.13-18.14.40:145][618]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.13-18.20.09:514][196]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Enemy_Characters/Animations/Firing_Rifle_Montage.Firing_Rifle_Montage
+[2023.04.13-18.22.06:608][829]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.22.06:608][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.22.06:781][829]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.22.06:781][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.23.55:719][159]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Enemy_Characters/Animations/Walk_With_Rifle_Alert_.Walk_With_Rifle_Alert_
+[2023.04.13-18.23.55:720][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.23.55:750][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-18.23.56:135][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.23.56:434][159]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.13-18.23.56:466][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.23.56:622][159]LogViewport: Scene viewport resized to 1055x542, mode Windowed.
+[2023.04.13-18.23.56:688][159]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.13-18.24.08:411][549]LogSlate: Window 'Walk_With_Rifle_Alert_' being destroyed
+[2023.04.13-18.24.08:421][549]LogSlate: Window 'Walk_With_Rifle_Alert_' being destroyed
+[2023.04.13-18.24.08:421][549]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.24.08:421][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.24.08:466][549]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.24.08:466][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.24.08:601][549]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.24.08:601][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.25.50:749][179]LogViewport: Scene viewport resized to 363x413, mode Windowed.
+[2023.04.13-18.25.50:827][181]LogViewport: Scene viewport resized to 370x413, mode Windowed.
+[2023.04.13-18.25.50:899][183]LogViewport: Scene viewport resized to 404x413, mode Windowed.
+[2023.04.13-18.25.50:968][185]LogViewport: Scene viewport resized to 455x413, mode Windowed.
+[2023.04.13-18.25.51:041][187]LogViewport: Scene viewport resized to 499x413, mode Windowed.
+[2023.04.13-18.25.51:112][189]LogViewport: Scene viewport resized to 549x413, mode Windowed.
+[2023.04.13-18.25.51:188][191]LogViewport: Scene viewport resized to 561x413, mode Windowed.
+[2023.04.13-18.25.51:258][193]LogViewport: Scene viewport resized to 576x413, mode Windowed.
+[2023.04.13-18.25.51:396][198]LogViewport: Scene viewport resized to 596x413, mode Windowed.
+[2023.04.13-18.25.51:474][200]LogViewport: Scene viewport resized to 603x413, mode Windowed.
+[2023.04.13-18.25.51:550][202]LogViewport: Scene viewport resized to 606x413, mode Windowed.
+[2023.04.13-18.25.51:665][207]LogViewport: Scene viewport resized to 619x413, mode Windowed.
+[2023.04.13-18.25.51:738][209]LogViewport: Scene viewport resized to 642x413, mode Windowed.
+[2023.04.13-18.25.51:809][211]LogViewport: Scene viewport resized to 653x413, mode Windowed.
+[2023.04.13-18.25.51:907][215]LogViewport: Scene viewport resized to 654x413, mode Windowed.
+[2023.04.13-18.25.51:998][218]LogViewport: Scene viewport resized to 649x413, mode Windowed.
+[2023.04.13-18.25.52:080][221]LogViewport: Scene viewport resized to 654x413, mode Windowed.
+[2023.04.13-18.25.52:152][223]LogViewport: Scene viewport resized to 660x413, mode Windowed.
+[2023.04.13-18.25.52:218][225]LogViewport: Scene viewport resized to 700x413, mode Windowed.
+[2023.04.13-18.25.52:288][227]LogViewport: Scene viewport resized to 720x413, mode Windowed.
+[2023.04.13-18.25.52:635][246]LogViewport: Scene viewport resized to 734x413, mode Windowed.
+[2023.04.13-18.25.52:715][248]LogViewport: Scene viewport resized to 739x413, mode Windowed.
+[2023.04.13-18.25.52:785][250]LogViewport: Scene viewport resized to 744x413, mode Windowed.
+[2023.04.13-18.25.52:850][252]LogViewport: Scene viewport resized to 765x413, mode Windowed.
+[2023.04.13-18.25.52:917][254]LogViewport: Scene viewport resized to 788x413, mode Windowed.
+[2023.04.13-18.25.53:010][258]LogViewport: Scene viewport resized to 784x413, mode Windowed.
+[2023.04.13-18.25.53:236][270]LogViewport: Scene viewport resized to 778x413, mode Windowed.
+[2023.04.13-18.25.53:301][272]LogViewport: Scene viewport resized to 761x413, mode Windowed.
+[2023.04.13-18.25.53:363][274]LogViewport: Scene viewport resized to 743x413, mode Windowed.
+[2023.04.13-18.25.53:428][276]LogViewport: Scene viewport resized to 723x413, mode Windowed.
+[2023.04.13-18.25.53:490][278]LogViewport: Scene viewport resized to 708x413, mode Windowed.
+[2023.04.13-18.25.53:549][280]LogViewport: Scene viewport resized to 694x413, mode Windowed.
+[2023.04.13-18.25.53:610][282]LogViewport: Scene viewport resized to 674x413, mode Windowed.
+[2023.04.13-18.25.53:669][284]LogViewport: Scene viewport resized to 651x413, mode Windowed.
+[2023.04.13-18.25.53:735][286]LogViewport: Scene viewport resized to 641x413, mode Windowed.
+[2023.04.13-18.25.53:786][287]LogViewport: Scene viewport resized to 624x413, mode Windowed.
+[2023.04.13-18.25.53:851][289]LogViewport: Scene viewport resized to 606x413, mode Windowed.
+[2023.04.13-18.25.53:926][291]LogViewport: Scene viewport resized to 551x413, mode Windowed.
+[2023.04.13-18.25.54:035][296]LogViewport: Scene viewport resized to 541x413, mode Windowed.
+[2023.04.13-18.25.54:101][298]LogViewport: Scene viewport resized to 492x413, mode Windowed.
+[2023.04.13-18.25.54:161][300]LogViewport: Scene viewport resized to 456x413, mode Windowed.
+[2023.04.13-18.25.54:232][302]LogViewport: Scene viewport resized to 410x413, mode Windowed.
+[2023.04.13-18.25.54:296][304]LogViewport: Scene viewport resized to 396x413, mode Windowed.
+[2023.04.13-18.25.54:432][311]LogViewport: Scene viewport resized to 384x413, mode Windowed.
+[2023.04.13-18.25.54:605][320]LogViewport: Scene viewport resized to 382x413, mode Windowed.
+[2023.04.13-18.25.54:676][322]LogViewport: Scene viewport resized to 367x413, mode Windowed.
+[2023.04.13-18.25.55:106][347]LogViewport: Scene viewport resized to 369x413, mode Windowed.
+[2023.04.13-18.25.55:222][353]LogViewport: Scene viewport resized to 372x413, mode Windowed.
+[2023.04.13-18.25.55:458][367]LogViewport: Scene viewport resized to 382x413, mode Windowed.
+[2023.04.13-18.26.08:547][113]LogViewport: Scene viewport resized to 376x253, mode Windowed.
+[2023.04.13-18.26.11:431][317]LogViewport: Scene viewport resized to 382x413, mode Windowed.
+[2023.04.13-18.27.33:216][488]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-18.27.33:227][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-18.27.33:748][488]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.04.13-18.37.39:899][908]LogHttp: Warning: 0000089ECAA5FA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B21361E5C-4B34-D6B9-4927-57AA2F0C36B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=cccf47f34e258355a8a5e48d27a4485c%7C65e499ae0c7243d18916bd5cb2b98bcf%7Cc28f33cd-206d-4e20-ba3e-3d1e5eec2172&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x89e450c01b0 [can pipeline])
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.204.62.149) port 443 (#3))
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.04.13-18.37.40:147][908]LogHttp: Warning: 0000089ECAA5FA00: libcurl info message cache 7 (Closing connection 3)
+[2023.04.13-18.37.40:230][908]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B21361E5C-4B34-D6B9-4927-57AA2F0C36B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=cccf47f34e258355a8a5e48d27a4485c%7C65e499ae0c7243d18916bd5cb2b98bcf%7Cc28f33cd-206d-4e20-ba3e-3d1e5eec2172&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.13-18.38.29:302][268]LogHttp: Warning: 0000089ECAA52800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B21361E5C-4B34-D6B9-4927-57AA2F0C36B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=cccf47f34e258355a8a5e48d27a4485c%7C65e499ae0c7243d18916bd5cb2b98bcf%7Cc28f33cd-206d-4e20-ba3e-3d1e5eec2172&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.13-18.38.29:302][268]LogHttp: Warning: 0000089ECAA52800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.13-18.38.29:302][268]LogHttp: Warning: 0000089ECAA52800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.13-18.38.29:302][268]LogHttp: Warning: 0000089ECAA52800: libcurl info message cache 1 (Closing connection 4)
+[2023.04.13-18.38.29:303][268]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B21361E5C-4B34-D6B9-4927-57AA2F0C36B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=cccf47f34e258355a8a5e48d27a4485c%7C65e499ae0c7243d18916bd5cb2b98bcf%7Cc28f33cd-206d-4e20-ba3e-3d1e5eec2172&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.13-18.41.05:776][586]LogDerivedDataCache: C:/Users/shane/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.838 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.13-18.43.35:304][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.04.13-18.43.35:460][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.04.13-18.43.35:768][710]LogSavePackage: Moving output files for package: /Game/levels/Alpha_Level
+[2023.04.13-18.43.35:770][710]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Alpha_Level70034BFA4DEBD901E48426AC530602A7.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/levels/Alpha_Level.umap'
+[2023.04.13-18.43.35:799][710]LogFileHelpers: Saving map 'Alpha_Level' took 0.422
+[2023.04.13-18.43.35:819][710]AssetCheck: New page: Asset Save: Alpha_Level
+[2023.04.13-18.43.35:819][710]LogContentValidation: Display: Validating World /Game/levels/Alpha_Level.Alpha_Level
+[2023.04.13-18.45.34:332][986]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-18.45.34:332][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-18.45.53:078][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.13-18.45.53:078][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.13-19.01.47:356][766]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton.SKM_Enemy_T-Pose_Skeleton
+[2023.04.13-19.01.47:356][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-19.01.47:393][766]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.01.47:674][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-19.01.47:837][766]LogViewport: Scene viewport resized to 1062x866, mode Windowed.
+[2023.04.13-19.04.11:550][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2023.04.13-19.04.11:559][699]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Alpha_Level' took 0.126
+[2023.04.13-19.04.11:560][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton] ([1] browsable assets)...
+[2023.04.13-19.04.11:579][699]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton.SKM_Enemy_T-Pose_Skeleton]
+[2023.04.13-19.04.11:579][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton]
+[2023.04.13-19.04.11:609][699]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton_Auto2
+[2023.04.13-19.04.11:610][699]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/SKM_Enemy_T-Pose_Skeleton_Auto2B739095B485E3C97B4F058B5D145052B.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Autosaves/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton_Auto2.uasset'
+[2023.04.13-19.04.11:611][699]LogFileHelpers: Auto-saving content packages took 0.053
+[2023.04.13-19.15.14:761][577]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-19.15.14:769][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-19.15.15:290][577]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.04.13-19.16.59:664][431]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/Rifle/M4A1_UE5) ...
+[2023.04.13-19.16.59:936][432]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-19.17.06:579][615]LogEditorFactories: Performing atomic reimport of [C:/Users/shane/Desktop/blender library/objects/M4A1/M4A1_UE5.fbx]
+[2023.04.13-19.17.06:679][615]LogFbx: Loading FBX Scene from C:/Users/shane/Desktop/blender library/objects/M4A1/M4A1_UE5.fbx
+[2023.04.13-19.17.06:739][615]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.13-19.17.07:015][615]LogFbx: Display: Triangulating static mesh M4A1.001
+[2023.04.13-19.17.09:638][615]LogStaticMesh: Display: Building static mesh M4A1_UE5...
+[2023.04.13-19.17.12:176][615]LogStaticMesh: Built static mesh [2.54s] /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-19.17.12:339][615]LogStaticMesh: Warning: M4A1_UE5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.13-19.17.12:340][615]LogStaticMesh: Warning: M4A1_UE5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.13-19.17.12:614][615]LogEditorFactories: -- imported successfully
+[2023.04.13-19.17.12:620][615]FBXImport: Warning: M4A1_UE5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.04.13-19.17.12:620][615]FBXImport: Warning: M4A1_UE5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.13-19.17.12:641][615]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/Rifle/M4A1_UE5) ...
+[2023.04.13-19.17.13:015][616]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-19.17.23:175][877]LogSavePackage: Moving output files for package: /Game/Characters/Rifle/M4A1_UE5
+[2023.04.13-19.17.23:177][877]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M4A1_UE5AD4310A647E221045A12678082714E48.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Characters/Rifle/M4A1_UE5.uasset'
+[2023.04.13-19.17.23:200][877]AssetCheck: New page: Asset Save: M4A1_UE5
+[2023.04.13-19.17.23:200][877]LogContentValidation: Display: Validating StaticMesh /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-19.17.49:430][552]LogSavePackage: Moving output files for package: /Game/Characters/Rifle/M4A1_UE5
+[2023.04.13-19.17.49:431][552]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M4A1_UE5F66EF9504DBCC7F1C8E18FA3C4C3F5EB.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Characters/Rifle/M4A1_UE5.uasset'
+[2023.04.13-19.17.49:457][552]AssetCheck: New page: Asset Save: M4A1_UE5
+[2023.04.13-19.17.49:457][552]LogContentValidation: Display: Validating StaticMesh /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-19.24.33:013][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.04.13-19.24.33:018][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Alpha_Level' took 0.078
+[2023.04.13-19.24.33:019][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton] ([1] browsable assets)...
+[2023.04.13-19.24.33:019][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton]
+[2023.04.13-19.24.33:022][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton_Auto3
+[2023.04.13-19.24.33:022][707]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/SKM_Enemy_T-Pose_Skeleton_Auto368FED29348779FD1596F749D89766666.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Autosaves/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton_Auto3.uasset'
+[2023.04.13-19.24.33:024][707]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.04.13-19.35.13:363][876]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose.SKM_Enemy_T-Pose
+[2023.04.13-19.35.13:364][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-19.35.13:440][876]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.35.14:065][876]LogViewport: Scene viewport resized to 1002x866, mode Windowed.
+[2023.04.13-19.38.46:073][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.04.13-19.38.46:078][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Alpha_Level' took 0.092
+[2023.04.13-19.38.46:078][207]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton] ([1] browsable assets)...
+[2023.04.13-19.38.46:078][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton]
+[2023.04.13-19.38.46:082][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton_Auto4
+[2023.04.13-19.38.46:082][207]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/SKM_Enemy_T-Pose_Skeleton_Auto40F7C860344B382FF1E7A2AB3A1FAC901.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Autosaves/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton_Auto4.uasset'
+[2023.04.13-19.38.46:084][207]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.04.13-19.40.50:874][165]LogDerivedDataCache: C:/Users/shane/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.935 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.13-19.46.15:051][536]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton
+[2023.04.13-19.46.15:053][536]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/SKM_Enemy_T-Pose_Skeleton9108536F4F4A660A8A313C8AC8E102E2.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton.uasset'
+[2023.04.13-19.46.15:083][536]AssetCheck: New page: Asset Save: SKM_Enemy_T-Pose_Skeleton
+[2023.04.13-19.46.15:083][536]LogContentValidation: Display: Validating Skeleton /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton.SKM_Enemy_T-Pose_Skeleton
+[2023.04.13-19.48.24:511][880]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/Rifle/M4A1_UE5) ...
+[2023.04.13-19.48.24:756][882]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-19.48.33:680][125]LogEditorFactories: Performing atomic reimport of [C:/Users/shane/Desktop/blender library/objects/M4A1/M4A1_UE5.fbx]
+[2023.04.13-19.48.33:699][125]LogFbx: Loading FBX Scene from C:/Users/shane/Desktop/blender library/objects/M4A1/M4A1_UE5.fbx
+[2023.04.13-19.48.33:754][125]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.13-19.48.34:085][125]LogFbx: Display: Triangulating static mesh M4A1.001
+[2023.04.13-19.48.37:216][125]LogStaticMesh: Display: Building static mesh M4A1_UE5...
+[2023.04.13-19.48.40:822][125]LogStaticMesh: Built static mesh [3.61s] /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-19.48.41:030][125]LogStaticMesh: Warning: M4A1_UE5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.13-19.48.41:030][125]LogStaticMesh: Warning: M4A1_UE5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.13-19.48.41:356][125]LogEditorFactories: -- imported successfully
+[2023.04.13-19.48.41:366][125]FBXImport: Warning: M4A1_UE5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.04.13-19.48.41:366][125]FBXImport: Warning: M4A1_UE5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.13-19.48.41:388][125]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/Rifle/M4A1_UE5) ...
+[2023.04.13-19.48.41:823][126]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-19.48.45:398][210]LogSavePackage: Moving output files for package: /Game/Characters/Rifle/M4A1_UE5
+[2023.04.13-19.48.45:400][210]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M4A1_UE55D2761EC444B1B7D2838499FBECE527A.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Characters/Rifle/M4A1_UE5.uasset'
+[2023.04.13-19.48.45:440][210]AssetCheck: New page: Asset Save: M4A1_UE5
+[2023.04.13-19.48.45:440][210]LogContentValidation: Display: Validating StaticMesh /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-19.50.35:549][996]Cmd: TRANSACTION UNDO
+[2023.04.13-19.50.35:549][996]LogEditorTransaction: Undo Translate Socket
+[2023.04.13-19.50.36:309][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.36:324][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.36:384][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.37:817][ 12]Cmd: TRANSACTION UNDO
+[2023.04.13-19.50.37:817][ 12]LogEditorTransaction: Undo Rotate Socket
+[2023.04.13-19.50.38:563][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.38:565][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.38:604][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.40:624][ 44]Cmd: TRANSACTION UNDO
+[2023.04.13-19.50.40:624][ 44]LogEditorTransaction: Undo Translate Socket
+[2023.04.13-19.50.41:376][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.41:378][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.41:420][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.42:827][ 64]Cmd: TRANSACTION UNDO
+[2023.04.13-19.50.42:827][ 64]LogEditorTransaction: Undo Edit Import Uniform Scale
+[2023.04.13-19.50.43:630][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.43:632][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.43:676][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.50.58:441][428]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/Rifle/M4A1_UE5) ...
+[2023.04.13-19.50.58:696][430]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-19.51.02:359][531]LogEditorFactories: Performing atomic reimport of [C:/Users/shane/Desktop/blender library/objects/M4A1/M4A1_UE5.fbx]
+[2023.04.13-19.51.02:379][531]LogFbx: Loading FBX Scene from C:/Users/shane/Desktop/blender library/objects/M4A1/M4A1_UE5.fbx
+[2023.04.13-19.51.02:433][531]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.13-19.51.02:777][531]LogFbx: Display: Triangulating static mesh M4A1.001
+[2023.04.13-19.51.05:904][531]LogStaticMesh: Display: Building static mesh M4A1_UE5...
+[2023.04.13-19.51.09:537][531]LogStaticMesh: Built static mesh [3.63s] /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-19.51.09:740][531]LogStaticMesh: Warning: M4A1_UE5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.13-19.51.09:740][531]LogStaticMesh: Warning: M4A1_UE5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.13-19.51.10:043][531]LogEditorFactories: -- imported successfully
+[2023.04.13-19.51.10:065][531]FBXImport: Warning: M4A1_UE5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.04.13-19.51.10:065][531]FBXImport: Warning: M4A1_UE5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.13-19.51.10:087][531]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Characters/Rifle/M4A1_UE5) ...
+[2023.04.13-19.51.10:545][532]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-19.51.13:804][607]LogSavePackage: Moving output files for package: /Game/Characters/Rifle/M4A1_UE5
+[2023.04.13-19.51.13:806][607]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/M4A1_UE5A1F6848B47F41640175CB6BD78882C27.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Characters/Rifle/M4A1_UE5.uasset'
+[2023.04.13-19.51.13:836][607]AssetCheck: New page: Asset Save: M4A1_UE5
+[2023.04.13-19.51.13:836][607]LogContentValidation: Display: Validating StaticMesh /Game/Characters/Rifle/M4A1_UE5.M4A1_UE5
+[2023.04.13-19.53.19:627][862]Cmd: TRANSACTION UNDO
+[2023.04.13-19.53.19:627][862]LogEditorTransaction: Undo Rotate Socket
+[2023.04.13-19.53.20:390][862]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.53.20:392][862]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.53.20:432][862]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.58.50:741][367]Cmd: TRANSACTION UNDO
+[2023.04.13-19.58.50:741][367]LogEditorTransaction: Undo Rename Socket And Move Attachments
+[2023.04.13-19.58.51:619][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.58.51:621][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.58.51:666][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.13-19.58.52:095][368]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-20.02.01:117][418]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.04.13-20.02.01:121][418]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Alpha_Level' took 0.099
+[2023.04.13-20.02.01:122][418]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton] ([1] browsable assets)...
+[2023.04.13-20.02.01:138][418]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton.SKM_Enemy_T-Pose_Skeleton]
+[2023.04.13-20.02.01:138][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton]
+[2023.04.13-20.02.01:142][418]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton_Auto5
+[2023.04.13-20.02.01:142][418]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/SKM_Enemy_T-Pose_Skeleton_Auto52C3215C345C646DA18AB20859CB018EE.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Autosaves/Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton_Auto5.uasset'
+[2023.04.13-20.02.01:144][418]LogFileHelpers: Auto-saving content packages took 0.022
+[2023.04.13-20.03.40:012][247]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton
+[2023.04.13-20.03.40:014][247]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/SKM_Enemy_T-Pose_Skeleton23E746154EADAFE2C185FA8EFAA2DEAC.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton.uasset'
+[2023.04.13-20.03.40:051][247]AssetCheck: New page: Asset Save: SKM_Enemy_T-Pose_Skeleton
+[2023.04.13-20.03.40:051][247]LogContentValidation: Display: Validating Skeleton /Game/Characters/Enemy_Characters/Gang_Member_1/SKM_Enemy_T-Pose_Skeleton.SKM_Enemy_T-Pose_Skeleton
+[2023.04.13-20.05.02:016][661]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-20.05.38:445][206]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-20.05.51:835][362]BlueprintLog: New page: Compile Enemy_AI
+[2023.04.13-20.05.52:043][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.04.13-20.05.52:396][363]LogNavigationDataBuild: Navigation data generation finished in /Game/levels/Alpha_Level.
+[2023.04.13-20.05.53:509][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/Enemy_AI" FILE="../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/EnemyAI/Enemy_AI.uasset" SILENT=true
+[2023.04.13-20.05.53:521][387]LogSavePackage: Moving output files for package: /Game/EnemyAI/Enemy_AI
+[2023.04.13-20.05.53:523][387]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Enemy_AIBBF3E42446D20459CDE4FDBD6CB1D841.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/EnemyAI/Enemy_AI.uasset'
+[2023.04.13-20.05.53:557][387]AssetCheck: New page: Asset Save: Enemy_AI
+[2023.04.13-20.05.53:558][387]LogContentValidation: Display: Validating Blueprint /Game/EnemyAI/Enemy_AI.Enemy_AI
+[2023.04.13-20.05.56:630][467]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.13-20.05.56:668][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.13-20.05.56:668][467]PIE: New page: PIE session: Alpha_Level (13 Apr 2023, 22:05:56)
+[2023.04.13-20.05.56:668][467]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Alpha_Level
+[2023.04.13-20.05.56:841][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173179s)
+[2023.04.13-20.05.56:841][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Alpha_Level.Alpha_Level to /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level (0.173341s)
+[2023.04.13-20.05.56:841][467]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.13-20.05.56:842][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.13-20.05.56:842][467]LogAIModule: Creating AISystem for world Alpha_Level
+[2023.04.13-20.05.56:843][467]LogPlayLevel: PIE: World Init took: (0.001978s)
+[2023.04.13-20.05.56:931][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.04.13-20.05.56:938][467]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.13-20.05.56:938][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.13-20.05.56:938][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.13-20.05.56:938][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.13-20.05.56:938][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.13-20.05.56:938][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.13-20.05.56:938][467]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.13-20.05.56:938][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.13-20.05.56:938][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.13-20.05.56:938][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.13-20.05.56:938][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.13-20.05.56:939][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.13-20.05.56:985][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.13-20.05.57:027][467]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.13-20.05.57:028][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.13-20.05.57:028][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.13-20.05.57:028][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.13-20.05.57:030][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.04.13-20.05.57:030][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.04.13-20.05.57:084][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.04.13-20.05.57:084][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.04.13-20.05.57:084][467]LogInit: FAudioDevice initialized.
+[2023.04.13-20.05.57:084][467]LogAudio: Display: Audio Device (ID: 6) registered with world 'Alpha_Level'.
+[2023.04.13-20.05.57:111][467]LogLoad: Game class is 'EnemyGameMode_C'
+[2023.04.13-20.05.57:151][467]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1023.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-20.05.57:152][467]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1025.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-20.05.57:152][467]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1026.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-20.05.57:152][467]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1027.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-20.05.57:152][467]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1028.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-20.05.57:152][467]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1029.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-20.05.57:152][467]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1030.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-20.05.57:153][467]LogPhysics: Warning: Scale for /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level:PersistentLevel.StaticMeshActor_1031.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.500 Z=4.750
+[2023.04.13-20.05.57:277][467]LogWorld: Bringing World /Game/levels/UEDPIE_0_Alpha_Level.Alpha_Level up for play (max tick rate 0) at 2023.04.13-21.05.57
+[2023.04.13-20.05.57:279][467]LogWorld: Bringing up level for play took: 0.167536
+[2023.04.13-20.05.57:282][467]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.04.13-20.05.57:290][467]PIE: Server logged in
+[2023.04.13-20.05.57:291][467]PIE: Play in editor total start time 0.641 seconds.
+[2023.04.13-20.07.14:859][584]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=380.42 Y=43.65 Z=0.00 Location: X=2560.27 Y=-16774.77 Z=92.15 Normal: X=0.66 Y=0.75 Z=0.00 PenetrationDepth:15.736 Actor:Enemy_AI_C_1 Component:M4A1_UE5 BoneName:None (0 other events since notify)
+[2023.04.13-20.07.24:677][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-20.07.24:677][974]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Alpha_Level
+[2023.04.13-20.07.24:679][974]LogWorld: UWorld::CleanupWorld for Alpha_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.13-20.07.24:692][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-20.07.24:714][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.13-20.07.24:729][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.13-20.07.24:806][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.13-20.07.24:817][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.13-20.07.24:820][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.13-20.07.24:856][974]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.04.13-20.07.25:012][975]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.04.13-20.07.35:869][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2023.04.13-20.07.36:047][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.13-20.07.36:462][247]LogSavePackage: Moving output files for package: /Game/levels/Alpha_Level
+[2023.04.13-20.07.36:463][247]LogSavePackage: Moving '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Saved/Alpha_Level34541DF74901213AB33C04870D8C729D.tmp' to '../../../../../../Users/shane/Desktop/CA_Obstacle_Course/CA_Obstacle_Course/ThirdPersonMap/Content/levels/Alpha_Level.umap'
+[2023.04.13-20.07.36:500][247]LogFileHelpers: Saving map 'Alpha_Level' took 0.534
+[2023.04.13-20.07.36:576][247]AssetCheck: New page: Asset Save: Alpha_Level
+[2023.04.13-20.07.36:576][247]LogContentValidation: Display: Validating World /Game/levels/Alpha_Level.Alpha_Level
